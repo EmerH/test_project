@@ -1,3 +1,6 @@
 NOvi tekst.
 1. git pull
-2. 
+2. make changes i files
+3. git status
+4. git commit -a -m "stage changes .. "
+5. git push      .. on remote repository

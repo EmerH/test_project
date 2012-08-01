@@ -1,7 +1,6 @@
 NOvi tekst.
-1. git pull
-		make changes i files
-2. git status
+1. $ git pull
+2. make changes i files
 		$ git status
 		# On branch master
 		# Changes not staged for commit:
@@ -17,4 +16,5 @@ NOvi tekst.
 		# Your branch is ahead of 'origin/master' by 1 commit.
 		#
 		nothing to commit (working directory clean)
-5. git push      .. on remote repository
+4. ponovi 2 i 3 vise puta ako treba		
+5. git push      .. na kraju push on remote repository

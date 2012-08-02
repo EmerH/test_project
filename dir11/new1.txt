@@ -17,4 +17,9 @@ NOvi tekst.
 		#
 		nothing to commit (working directory clean)
 4. ponovi 2 i 3 vise puta ako treba		
+		$ git status
+		# On branch master
+		# Your branch is ahead of 'origin/master' by 3 commits.    (AKO 3 puta 2. i 3.)!!
+		#
+		nothing to commit (working directory clean)
 5. git push      .. na kraju push on remote repository

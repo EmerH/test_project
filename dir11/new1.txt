@@ -26,3 +26,5 @@ NOvi tekst.
 		$ git status
 		# On branch master
 		nothing to commit (working directory clean)
+		
+$ git log -2		.. see 2 zadnje changes

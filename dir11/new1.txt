@@ -23,3 +23,6 @@ NOvi tekst.
 		#
 		nothing to commit (working directory clean)
 5. git push      .. na kraju push on remote repository
+		$ git status
+		# On branch master
+		nothing to commit (working directory clean)

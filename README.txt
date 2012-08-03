@@ -8,3 +8,4 @@ Test Rebase on issue123
 issue123 rebase
 hotfix.
 poslije
+opet
